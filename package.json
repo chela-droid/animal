@@ -1,0 +1,25 @@
+{
+  "name": "animal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chela-droid/animal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chela-droid/animal/issues"
+  },
+  "homepage": "https://github.com/chela-droid/animal#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.1",
+    "server": "^1.0.38"
+  }
+}
